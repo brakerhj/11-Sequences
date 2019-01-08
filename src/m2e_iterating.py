@@ -19,7 +19,7 @@ def main():
     """ Calls the   TEST   functions in this module. """
     run_test_sum_abs_of_all()
     run_test_sum_abs_of_all_without_range()
-    run_test_fill_from_colors()
+    # run_test_fill_from_colors()
     run_test_print_letters()
 
 
